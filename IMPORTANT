@@ -1,0 +1,3 @@
+IMPORT TERLEBIH DAHULU pakarsapidb.sql
+KEMUDIAN, DROP tmp_analisa sampai tmp_penyakit
+LALU IMPORT KEMBALI tmp_analisa sampai tmp_penyakit 
